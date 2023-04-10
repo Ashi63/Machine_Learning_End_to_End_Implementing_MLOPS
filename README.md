@@ -2,6 +2,9 @@
 Complete end to end machine learning project implementing the MLOPS.
 
 1. Set up the git hub repository
+  
   a). New environment.
+  
   b). setup.py
+  
   c). requirements.txt
